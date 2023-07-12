@@ -4,7 +4,7 @@ This is a simple brightness light controller that can be used on Linux operating
 
 ## Installation
 
-1. Download the [brightness light controller](./light).
+1. Download the [brightness light controller](light).
 2. Give the file executable permissions: `chmod +x light`
 3. Move the file to the `/usr/bin` directory: `sudo mv light /usr/bin/`
 
